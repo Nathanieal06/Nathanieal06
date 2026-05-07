@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a Unity RPG — building combat systems, enemy AI & modular mechanics from scratch<br>👯 I'm looking to collaborate on game development projects, game jams, or anything Unity/C# related<br>🤝 I'm looking for help with narrative design and advanced AI behaviors in games<br>🌱 I'm currently learning advanced Unity systems — state machines, event-driven architecture & performance optimization<br>💬 Ask me about Unity, C#, gameplay programming, or how to go from idea to a playable game<br>⚡ Fun fact I built an FPS, a space shooter, an endless runner, and an RPG — all while studying Computer Engineering!
+🔭 I'm currently working on a Unity RPG — building combat systems, enemy AI & modular mechanics from scratch.<br>👯 I'm looking to collaborate on game development projects, game jams, or anything Unity/C# related<br>🤝 I'm looking for help with narrative design and advanced AI behaviors in games<br>🌱 I'm currently learning advanced Unity systems — state machines, event-driven architecture & performance optimization<br>💬 Ask me about Unity, C#, gameplay programming, or how to go from idea to a playable game<br>⚡ Fun fact I built an FPS, a space shooter, an endless runner, and an RPG — all while studying Computer Engineering!
 
 
 ## 🌐 Socials:
